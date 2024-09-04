@@ -1,0 +1,34 @@
+amazone:
+	-hoor : product --> pc     ----->hoor
+	-arkan : baymenty -->pc
+	-bushra : orders -->pc		internet-->server-->acsses
+	-mariam : api -->pc
+	-senior : review -->pc-->erorr-->6
+
+problems
+	merg 
+	auther
+	issue tracking
+	versions
+
+answers
+	---->>>version control system-->$ ---->  ---->$$$$$$$$$
+	version control system-->$-->Linux-->Linus--->git-->
+________________________________________________________________
+________________________________________________________________
+________________________________________________________________
+
+-10 command of git:
+____________________
+	-start								git init
+	-track files					git add file_name,git add .
+	-save backup						git commit -m 'add_commit'
+	-see history						git log
+	-see any changes					git status
+	-upload file from pc to github		git push
+	-download file from github to pc	git pull
+
+	-make branch					git checkout -b branch_name
+	-check branch & used 			git branch
+	-move branch 					git checkout branch_name
+__________________________________________________________________
